@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OffVendetta
-- 👀 I’m interested in ... Em aprender e adquirir conhecimentos espero contar com todos
+- 👀 I’m interested in ... Em aprender e adquirir conhecimentos, espero contar com todos
 - 🌱 I’m currently learning ... HTML e CSS
 - 💞️ I’m looking to collaborate on ... Em HTML E CSS
 - 📫 How to reach me ...  Mandar mensagem
